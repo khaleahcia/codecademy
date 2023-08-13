@@ -1,2 +1,6 @@
 # codecademy
-Projects created on Codecademy.
+Projects created on Codecademy. This is a list of the projects and prompts.
+
+Block Letters - python
+ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from individual characters.
+Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art.

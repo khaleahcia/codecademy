@@ -72,3 +72,11 @@ Learn about code reuse with Python functions. Apply that knowledge to create fun
 
 8. Getting Ready for Physics Class
 You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
+
+**Strings**
+Learn all about the Python string object. Figure out how to automatically create, rearrange, reassign, disassemble, and reassemble blocks of text!
+
+9. Thread Shed
+You’ve recently been hired as a cashier at the local sewing hobby shop, Thread Shed. Some of your daily responsibilities involve tallying the number of sales during the day, calculating the total amount of money made, and keeping track of the names of the customers.
+Unfortunately, the Thread Shed has an extremely outdated register system and stores all of the transaction information in one huge unwieldy string called daily_sales.
+All day, for each transaction, the name of the customer, amount spent, types of thread purchased, and the date of sale is all recorded in this same string. Your task is to use your Python skills to iterate through this string and clean up each transaction and store all the information in easier-to-access lists.

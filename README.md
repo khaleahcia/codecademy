@@ -1,6 +1,6 @@
 # codecademy
 Projects created on Codecademy. This is a list of the completed projects for courses, skill paths, and career paths that I have completed or have in progress.
-Completed: Learn Python 3
+Completed: Learn Python 3 Course, Learn SQL Course
 In progress:
 
 *******************************
@@ -100,3 +100,10 @@ Learn about the differences between data types in Python and how to create your 
 
 12. Basta Fazoolin'
 You’ve started a position as the lead programmer for the family-style Italian restaurant Basta Fazoolin’ with My Heart. The restaurant has been doing fantastically and seen a lot of growth lately. You’ve been hired to keep things organized.
+
+*******************************
+Learn SQL
+Course with 5 projects to learn how to manage large datasets and analyze real data using the standard data management language. 
+Syllabus topics are Manipulation, Queries, Aggregate Functions, and Multiple Tables.
+Earned a certificate of completion on March 26, 2023.
+*******************************

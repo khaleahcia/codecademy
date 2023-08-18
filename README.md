@@ -112,4 +112,10 @@ Earned a certificate of completion on March 26, 2023.
 Learn how to use SQL to access, create, and update data stored in a database.
 
 1. Create a Table
-In this project, you will create your own friends table and add/delete data from it! The instructions provided are a general guideline. Feel free to add more columns, insert more data, and create more tables. After completing the instructions for each Task below, click the “Save” button to check your progress. If nothing populates in the “Query Results” tab to the right, double-check your work for syntax errors.
+In this project, you will create your own friends table and add/delete data from it! The instructions provided are a general guideline. Feel free to add more columns, insert more data, and create more tables.
+
+**Queries**
+Perform more complex queries by learning essential query keywords and functionality.
+
+2. New York Restaurants
+We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.

@@ -119,3 +119,17 @@ Perform more complex queries by learning essential query keywords and functional
 
 2. New York Restaurants
 We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
+
+**Aggregate Functions**
+Learn powerful functions for performing complex database operations with ease.
+
+3. Trends in Startups
+Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world. To get you started with your research, your boss emailed you a project.sqlite file that contains a table called startups. It is a portfolio of some of the biggest names in the industry. Write queries with aggregate functions to retrieve some interesting insights about these companies. What are you waiting for? Let’s get started!
+
+4. Analyze Hacker News Trends
+
+
+**Multiple Tables
+Expand your SQL skills by creating and manipulating databases with multiple related tables.
+
+5. Lyft Trip Data

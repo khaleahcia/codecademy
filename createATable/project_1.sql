@@ -1,5 +1,5 @@
 /*
-Create a Table project for Learn SQL course on Codecademy.
+Create a Table project for Learn SQL course and Analyze Data with SQL skill path on Codecademy.
 
 In this project, you will create your own friends table and add/delete data from it!
 

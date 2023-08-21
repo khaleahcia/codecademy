@@ -1,5 +1,5 @@
 /*
-New York Restaurants project for Learn SQL course at Codecademy.
+New York Restaurants project for Learn SQL course and Analyze Data with SQL skill path at Codecademy.
 
 We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
 

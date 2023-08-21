@@ -1,5 +1,5 @@
 /*
-Trends in Startups project for Learn SQL course at Codecademy.
+Trends in Startups project for Learn SQL course and Analyze Data with SQL skill path at Codecademy.
 
 Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world.
 

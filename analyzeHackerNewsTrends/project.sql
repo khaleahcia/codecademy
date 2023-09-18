@@ -1,5 +1,5 @@
 /*
-Analyze Hacker News Trends project for Learn SQL course on Codecademy.
+Analyze Hacker News Trends project for Learn SQL course and Analyze Data with SQL skill path on Codecademy.
 
 Hacker News is a popular website run by Y Combinator. It’s widely known by people in the tech industry as a community site for sharing news, showing off projects, asking questions, among other things.
 
@@ -29,3 +29,11 @@ FROM hacker_news;
 -- 6366
 
 -- 3. Next, we need to pinpoint the users who have accumulated a lot of points across their stories. Find the individual users who have gotten combined scores of more than 200, and their combined scores. GROUP BY and HAVING are needed!
+SELECT user, SUM(score)
+FROM hacker_news
+GROUP BY 1
+HAVING SUM(score) > 200
+ORDER BY 2 DESC;
+-- vxNsr = 517; amirkhella = 309; dmmalam = 304; metafunctor = 282
+
+-- 4. Then, we want to add these users' scores together and divide by the total to get the percentage. Add their scores together and divide it by the total sum. Like

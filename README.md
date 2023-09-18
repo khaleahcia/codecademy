@@ -1,7 +1,92 @@
 # codecademy
 Projects created on Codecademy. This is a list of the completed projects for courses, skill paths, and career paths that I have completed or have in progress.
 Completed: Analyze Data with SQL Skill Path, Learn Python 3 Course, Learn SQL Course
-In progress:
+In progress: Computer Science Career Path
+
+*******************************
+Analyze Data with SQL Skill Path
+Skill Path with 18 projects.
+All companies use data now, and most of it is stored in databases. In this Skill Path, you will use SQL queries to create databases, pull data from databases, and analyze the results. You will practice your skills with real-world marketing and user analysis case studies, and prepare for technical interviews. Interested in a career as a data analyst? This Skill Path is the perfect place to start.
+Syllabus topics are Getting Started with SQL, Writing Basic Queries, Calculating Aggregates, Joining Multiple Tables, Going Off-Platform, Analyze Real Data with SQL, Advanced SQL, and Interview Prep.
+Earned a certificate of completion on April 22, 2023.
+*******************************
+
+**Getting Started with SQL - Manipulation**
+Learn how to use SQL to access, create, and update data stored in a database.
+
+1. Create a Table
+In this project, you will create your own friends table and add/delete data from it! The instructions provided are a general guideline. Feel free to add more columns, insert more data, and create more tables.
+
+**Writing Basic Queries**
+This section will go over the most commonly used commands to query a table and you will write your own to access data.
+
+2. New York Restaurants
+We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
+
+3. RPA Fraud Detection
+
+4. RPA Customer Segmentation
+
+5. Davie's Burgers Subway Ad
+
+**Calculating Agrregates**
+Learn about SQL aggregate functions that perform calculations that summarize multiple rows of data.
+
+6. Trends in Startups
+Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world. To get you started with your research, your boss emailed you a project.sqlite file that contains a table called startups. It is a portfolio of some of the biggest names in the industry. Write queries with aggregate functions to retrieve some interesting insights about these companies. What are you waiting for? Let’s get started!
+
+7. The Metropolitan Museum of Art
+
+8. Analyze Hacker News Trends
+Hacker News is a popular website run by Y Combinator. It’s widely known by people in the tech industry as a community site for sharing news, showing off projects, asking questions, among other things.
+
+9. Cryptocurrency Exchange
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+*******************************
+Computer Science
+Career Path that introduces programming. Master Python while learning data structures, algorithms, and more!
+Syllabus topics are Intro to Programming, Intro to Data Structures, Algorithms, Trees and Graphs, Databases, Computer Architecture, Math for Computer Science, and Interview Prep.
+*******************************
+
+**Intro to Programming**
+Kickstart your coding journey as you learn all about programming in Python.
+
+1. The Boredless Tourist
+
+2. Python Terminal Game
+
+**Trees and Graphs**
+Learn about Python trees and graphs.
+
+3. Creating Recommendation Software
+
+**Databases**
+Learn SQL, PostgreSQL databases, and good database practices.
+
+4. Creating a Database
+
+**Computer Architecture**
+Learn about the rules, organization of components, and processes that allow computers to process instructions.
+
+5. CPU Simulator
 
 *******************************
 Learn Python 3
@@ -135,59 +220,3 @@ Expand your SQL skills by creating and manipulating databases with multiple rela
 
 5. Lyft Trip Data
 
-*******************************
-Analyze Data with SQL Skill Path
-Skill Path with 18 projects.
-All companies use data now, and most of it is stored in databases. In this Skill Path, you will use SQL queries to create databases, pull data from databases, and analyze the results. You will practice your skills with real-world marketing and user analysis case studies, and prepare for technical interviews. Interested in a career as a data analyst? This Skill Path is the perfect place to start.
-Syllabus topics are Getting Started with SQL, Writing Basic Queries, Calculating Aggregates, Joining Multiple Tables, Going Off-Platform, Analyze Real Data with SQL, Advanced SQL, and Interview Prep.
-Earned a certificate of completion on April 22, 2023.
-*******************************
-
-**Getting Started with SQL - Manipulation**
-Learn how to use SQL to access, create, and update data stored in a database.
-
-1. Create a Table
-In this project, you will create your own friends table and add/delete data from it! The instructions provided are a general guideline. Feel free to add more columns, insert more data, and create more tables.
-
-**Writing Basic Queries**
-This section will go over the most commonly used commands to query a table and you will write your own to access data.
-
-2. New York Restaurants
-We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
-
-3. RPA Fraud Detection
-
-4. RPA Customer Segmentation
-
-5. Davie's Burgers Subway Ad
-
-**Calculating Agrregates**
-Learn about SQL aggregate functions that perform calculations that summarize multiple rows of data.
-
-6. Trends in Startups
-Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world. To get you started with your research, your boss emailed you a project.sqlite file that contains a table called startups. It is a portfolio of some of the biggest names in the industry. Write queries with aggregate functions to retrieve some interesting insights about these companies. What are you waiting for? Let’s get started!
-
-7. The Metropolitan Museum of Art
-
-8. Analyze Hacker News Trends
-Hacker News is a popular website run by Y Combinator. It’s widely known by people in the tech industry as a community site for sharing news, showing off projects, asking questions, among other things.
-
-9. Cryptocurrency Exchange
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
